@@ -1,0 +1,35 @@
+<dl id="metadatadiv" class="metadata-block">
+  <section id="ermeta"></section>
+  <dt>Shows</dt>
+  <dd><ol id="shows"></ol></dd>
+</div>
+
+<script type='text/javascript' src="{{ '/assets/helpers.js' | absolute_url }}"></script>
+
+<script>
+  let record = getRecordByPID({{ site.data.melodrama | jsonify }}, {{ page.pid | jsonify }});
+  let targetdiv = document.getElementById("ermeta");
+
+  targetdiv.innerHTML = `<dt>Label</dt><dd>${record.label}</dd>`;
+  targetdiv.innerHTML += `<dt>Identifier</dt><dd>${record.pid}</dd>`;
+  targetdiv.innerHTML += `<dt>Archive Holding Document</dt><dd>${record.archiveHoldingDocument}</dd>`
+  targetdiv.innerHTML += `<dt>Identifier</dt><dd>${record.pid}</dd>`
+
+  targetdiv = document.getElementById("shows");
+  for (i in record.shows) {
+    targetdiv.innerHTML = `<dt>Date</dt><dd>${record.shows[i].date}</dd>`;
+    targetdiv.innerHTML += `<dt>Venue</dt><dd>${record.shows[i].venue}</dd>`;
+    targetdiv.innerHTML += `<dt>Location</dt><dd>${record.shows[i].location}</dd>`;
+
+    let performanceListElement = document.createElement("ol");
+    performanceListElement.setAttribute("class", "item-metadata-performance-list");
+    targetdiv.innerHTML += `<dt>Performances</dt><ol id=performances-${i}></ol>`
+    targetdiv.appendChild(performanceListElement);
+    targetdiv = document.getElementById(`performances-${i}`);
+
+    record.shows[i].performances.forEach((performance) => {
+      targetdiv.innerHTML = `<dt>Title</dt><dd>${performance.title}</dd>`;
+      targetdiv.innerHTML += `<dt>Genre Claim</dt><dd>${performance.playbillGenreClaim}</dd>`;
+    });
+  }
+</script>

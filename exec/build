@@ -1,0 +1,33 @@
+#!/bin/zsh
+#PROJDIR=/Users/nmarz/Desktop/dev/romelo/proj
+PROJDIR=/Users/nmarz/Desktop/outer/romelo
+BASEDIR=
+LOCALROOT=/Applications/XAMPP/htdocs/romelo
+LOCALBAK=/Applications/XAMPP/htdocs/bak/romelo/last
+
+cd $PROJDIR
+
+echo "Building Jekyll project"
+jekyll build
+
+echo "Backing up last web root"
+if [ $1 = "--quick" ]; then
+    rsync -av --exclude 'last' --exclude 'img' $IMGEXCLUDE $LOCALROOT/* $LOCALBAK 
+else
+    rm -r $LOCALBAK
+    mkdir $LOCALBAK
+    rsync -av --exclude 'last' $IMGEXCLUDE $LOCALROOT/* $LOCALBAK 
+fi 
+
+echo "Syncing latest site build"
+if [ $1 = "--quick" ]; then
+    rsync -av --exclude 'img' $IMGEXCLUDE _site/* $LOCALROOT/$BASEDIR
+else
+    rm -r $LOCALROOT/$BASEDIR
+    mkdir $LOCALROOT/$BASEDIR
+    rsync -av $IMGEXCLUDE _site/* $LOCALROOT/$BASEDIR
+fi
+
+chmod -R 755 $LOCALROOT/$BASEDIR #Not sure why wax creates files with screwy permissions, but this fixes it.
+echo "Done."
+

@@ -1,0 +1,105 @@
+{% assign placeholder = include.placeholder | default: 'Search... ' %}
+{% assign key = include.search | default: 'main' %}
+{% assign config = site.search[key] %}
+{% assign dropdowndata = site.data.dropdown %}
+{% assign index = config.index | absolute_url %}
+{%- capture fields -%}
+  {%- for collection in config.collections -%}
+    {%- for field in collection[1].fields -%}
+      {{ field }}{% unless forloop.last %}|||{% endunless %}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{% assign fields = fields | split: '|||' | uniq %}
+
+
+
+<div class='search-block'>
+  <div id="inputs" class='input-group'>
+    <!-- <input type='text' class='form-control' id='search' name='x' placeholder='{{ placeholder }}'> -->
+  </div>
+  <button id="submit">Search</button>
+  <div id='results'></div>
+</div>
+
+<script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/helpers.js' | absolute_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/boolsearch.js' | absolute_url }}"></script>
+<script type='text/javascript'>
+
+var collectionNames = Object.keys({{ config.collections | jsonify}});
+var siteData = {{ site.data | jsonify }};
+var db = [];
+
+var termList = new TermList();
+document.getElementById("inputs").appendChild(termList.element);
+
+collectionNames.forEach((collectionName) => {
+  db = db.concat(siteData[collectionName]);
+});
+
+var fields    = {{ fields | jsonify }};
+// var dropdowndata = {{ dropdowndata[key] | jsonify }};
+// let dropdownKeys = []
+
+// dropdowndata.forEach((item)=> {
+//   dropdownKeys.push(item.field);
+// });
+
+// let dropdownElements = {};
+
+
+// let createSearchNugget = () => {
+//     let payload = [];
+//     dropdownKeys.forEach((key) => {
+//         payload.push([key, dropdownElements[key].value]);
+//     });
+//     console.log(payload);
+//     return payload;
+// }
+
+
+document.getElementById("submit").addEventListener("click", () => {
+    termSearchUI(fields, indexFile, url, termList.getQuery(), db);
+});
+
+// dropdownKeys.forEach((key) => {
+
+//     refObject = dropdowndata[dropdownKeys.indexOf(key)];
+
+//     let searchElement = document.createElement("div");
+//     searchElement.setAttribute("class", "dropdown-search-widget");
+
+//     let labelElement = document.createElement("label");
+//     labelElement.setAttribute("for", `${key}-dropdown`);
+//     labelElement.setAttribute("class", "dropdown-label");
+//     labelElement.innerHTML = refObject.display;
+
+//     let dropdownelement = document.createElement("select");
+//     dropdownelement.setAttribute("id", `${key}-dropdown`);
+
+//     let options = `<option disabled hidden selected>{{ placeholder }}</option>`;
+
+//     refObject.values.forEach((item) => {
+//         htmlString = `<option id="${key}-dropdown-option" class="dropdown-option" value="${item}">${item}</option>`;
+//         options += htmlString;
+//     });
+
+//     dropdownelement.innerHTML = options
+
+//     searchElement.appendChild(labelElement);
+//     searchElement.appendChild(dropdownelement);
+
+//     document.getElementById("inputs").appendChild(searchElement)
+
+//     dropdownElements[key] = dropdownelement;
+// });
+
+var indexFile = "{{ index }}";
+var url       = "{{ '' | absolute_url }}";
+
+// $(document).ready(function() {
+//   startSearchUI(fields, indexFile, url);
+// });
+</script>

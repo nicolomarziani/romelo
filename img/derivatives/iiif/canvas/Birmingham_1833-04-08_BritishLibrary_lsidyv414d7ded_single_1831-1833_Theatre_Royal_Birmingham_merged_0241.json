@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Birmingham_1833-04-08_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0241.json",
+  "label": "front",
+  "width": 2451,
+  "height": 6197,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Birmingham_1833-04-08_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0241/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Birmingham_1833-04-08_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0241.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Birmingham_1833-04-08_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0241/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Birmingham_1833-04-08_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0241",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 2451,
+        "height": 6197
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Birmingham_1833-04-08_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0241.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

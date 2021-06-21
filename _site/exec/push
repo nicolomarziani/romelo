@@ -1,0 +1,6 @@
+#!/bin/zsh
+LOCALDIR=/Users/nmarz/Desktop/dev/wax/proj
+REMOTEDIR=/Users/nmarz/Box/fbh_internal/projects/waxtest
+
+mkdir $REMOTEDIR
+rsync -av $LOCALDIR/* $REMOTEDIR

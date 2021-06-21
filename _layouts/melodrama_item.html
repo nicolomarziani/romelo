@@ -1,0 +1,31 @@
+---
+layout: generic_collection_item
+image_viewer: 'openseadragon'
+pagination: true
+meta:
+  - label: 'Label'
+    value: page.label
+  - label: 'Identifier'
+    value: page.pid
+  - label: 'Archive Holding Document'
+    value: page.archiveHoldingDocument
+  - label: 'Shows'
+    parent: page.shows
+    value: 
+      - label: 'Date'
+        value: _date
+      - label: 'Venue'
+        value: venue
+      - label: 'Location'
+        value: location
+      - label: 'Performances'
+        parent: .performances
+        collapse: true
+        collapseLabel: title
+        value:
+        - label: 'title'
+          value: title
+        - label: 'Genre Claim'
+          value: playbillGenreClaim
+    
+---

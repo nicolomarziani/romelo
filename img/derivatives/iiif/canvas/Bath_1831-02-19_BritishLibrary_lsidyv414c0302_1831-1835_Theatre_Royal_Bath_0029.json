@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1831-02-19_BritishLibrary_lsidyv414c0302_1831-1835_Theatre_Royal_Bath_0029.json",
+  "label": "front",
+  "width": 2102,
+  "height": 3488,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1831-02-19_BritishLibrary_lsidyv414c0302_1831-1835_Theatre_Royal_Bath_0029/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Bath_1831-02-19_BritishLibrary_lsidyv414c0302_1831-1835_Theatre_Royal_Bath_0029.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1831-02-19_BritishLibrary_lsidyv414c0302_1831-1835_Theatre_Royal_Bath_0029/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1831-02-19_BritishLibrary_lsidyv414c0302_1831-1835_Theatre_Royal_Bath_0029",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 2102,
+        "height": 3488
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1831-02-19_BritishLibrary_lsidyv414c0302_1831-1835_Theatre_Royal_Bath_0029.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

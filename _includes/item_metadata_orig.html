@@ -1,0 +1,56 @@
+<dl class='metadata-block'>
+  {% for item in include.meta %}
+    {% if item.value contains 'page.' %}
+      {% assign key = item.value | remove: 'page.' %}
+      {% assign value = page[key] %}
+    {% else %}
+      {% assign value = item.value %}
+    {% endif %}
+
+    {% comment %}
+    this is the new loop block
+    {% endcomment %}
+    {% if value | strip != '' %}
+      {% if item.type == 'loop' and item.sub %}
+        <dt>{{ item.label }}</dt>
+        <dd>
+          <ol>
+            {% for s in value %}
+              <li>
+              {% for i in item.sub %}
+                {% assign subkey = i.value | remove: 'item.' %}
+                <b>{{ i.label }}:</b> {{ s[subkey] }}<br>
+              {% endfor %}
+              </li>
+            {% endfor %}
+          </ol>
+        </dd>
+      {% comment %}
+      end of loop block
+      {% endcomment %}
+      {% elsif item.type == 'link' %}
+        {% if key == 'manifest' %}
+          {%- capture value -%}
+            <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">{{ value | absolute_url }}</a>
+          {%- endcapture -%}
+        {% else %}
+          {%- capture value -%}
+            <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">
+              {{ value | absolute_url | remove: 'https://' | remove: 'http://' | split: "/" | first }}
+            </a>
+          {%- endcapture -%}
+        {% endif %}
+        <dt>{{ item.label }}</dt>
+        <dd>{{ value | strip }}</dd>
+      {% else %}
+        <dt>{{ item.label }}</dt>
+        <dd>{{ value | strip }}</dd>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</dl>
+
+<script type='text/javascript' src="{{ '/assets/helpers.js' | absolute_url }}"></script>
+<script>
+  console.log(getRecordByPID({{ site.data.melodrama | jsonify }}, {{ page.pid | jsonify }}));
+</script>

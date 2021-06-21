@@ -1,0 +1,39 @@
+{
+"main":[
+    {  
+        "field": "label",
+        "display": "Label",
+        "values":[
+            "Choose",
+            "Covent Garden",
+            "Theater",
+            "Opera House"
+        ]
+    },{  
+        "field": "archiveHoldingDocument",
+        "display": "Archive Holding Document",
+        "values":[
+            "Choose",
+            "British Library" 
+        ]
+    },{  
+        "field": "containingCollection",
+        "display": "Containing Collection",
+        "values":[
+            "Choose",
+            "British Library Playbills"
+        ]
+    },{  
+        "field": "shows.venue",
+        "display": "Venue",
+        "values":[
+            "Choose",
+            "Theatre-Royal, Haymarket",
+            "Lyceum English Opera House",
+            "Theatre Royal, Dublin",
+            "The Street"
+        ]
+    }
+]
+}
+

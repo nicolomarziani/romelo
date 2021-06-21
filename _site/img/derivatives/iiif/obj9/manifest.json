@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/img/derivatives/iiif/obj9/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "obj9",
+  "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/img/derivatives/iiif/sequence/obj9.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/img/derivatives/iiif/canvas/obj9.json",
+          "label": "front",
+          "width": 2501,
+          "height": 3924,
+          "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/img/derivatives/iiif/annotation/obj9.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/img/derivatives/iiif/images/obj9/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/img/derivatives/iiif/images/obj9",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2501,
+                "height": 3924
+              },
+              "on": "/img/derivatives/iiif/canvas/obj9.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "/img/derivatives/iiif/images/obj9/full/full/0/default.jpg",
+  "fullwidth": "/img/derivatives/iiif/images/obj9/full/1140,/0/default.jpg"
+}

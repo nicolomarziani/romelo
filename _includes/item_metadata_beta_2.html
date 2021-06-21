@@ -1,0 +1,71 @@
+<dl id="metadatadiv" class="metadata-block">
+</dl>
+  
+  <script type='text/javascript' src="{{ '/assets/helpers.js' | absolute_url }}"></script>
+  <script>
+
+    function metadataBuilder(metadataArray, parent, targetElement){
+
+        let thisElement = document.createElement("li");
+
+        targetElement.appendChild(thisElement);
+        metadataArray.forEach((record, i) => {
+            thisElement.innerHTML += `<dt>${record.label}</dt>`;
+            if (Array.isArray(record.value)) {
+                let nextElement = document.createElement("ol");
+                thisElement.appendChild(nextElement);
+                let parentObject = parent;
+                record.parent.split('.').forEach((node, i) => {
+                    if (node != "") {
+                        parentObject = parentObject[node];
+                    }
+                });
+                if (Array.isArray(parentObject)) {
+                    parentObject.forEach((object) => {
+                        metadataBuilder(record.value, object, nextElement);
+                    });
+                } else {
+                    metadataBuilder(record.value, parentObject, nextElement);
+                }
+            } else {
+                thisElement.innerHTML += `<dd>${parent[record.value]}</dd>`;
+            }
+        });
+    }
+
+    
+    let label;
+    let innerListElement;
+    let parentObject;
+    let thisElement;
+    let value;
+
+    let metadata = {{ metadata | jsonify }};
+    let targetDiv = document.getElementById("metadatadiv");
+    
+    {% for item in include.meta %}
+        label = "{{ item.label }}";
+        {% if item.value contains 'page.' %}
+            {% assign key = item.value | remove: 'page.' %}
+            {% assign value = page[key] %}
+        {% else %}
+            {% assign value = item.value %}
+        {% endif %}
+        value = {{ value | jsonify }};
+        targetDiv.innerHTML += `<dt>${label}</dt>` 
+        {% if value[0] %}
+            {% assign key = item.parent | remove: 'page.' %}
+            {% assign parentObj = page[key] %}
+            parentObject = {{ parentObj[0] | jsonify }};
+            thisElement = document.createElement("dd");
+            innerListElement = document.createElement("ol")
+            thisElement.appendChild(innerListElement);
+            targetDiv.appendChild(thisElement);
+            metadataBuilder(value, parentObject, innerListElement);
+        {% else %}
+            console.log("leaf", value);
+            targetDiv.innerHTML += `<dd>${value}</dd>`;
+        {% endif %}
+    {% endfor %}
+    
+  </script>
