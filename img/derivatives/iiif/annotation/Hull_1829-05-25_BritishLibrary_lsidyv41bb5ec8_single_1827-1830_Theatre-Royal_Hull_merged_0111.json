@@ -1,0 +1,22 @@
+---
+layout: none
+---
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 1671,
+    "height": 3515
+  },
+  "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

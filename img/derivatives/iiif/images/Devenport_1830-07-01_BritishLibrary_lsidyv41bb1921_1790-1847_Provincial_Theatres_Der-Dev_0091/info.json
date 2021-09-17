@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Devenport_1830-07-01_BritishLibrary_lsidyv41bb1921_1790-1847_Provincial_Theatres_Der-Dev_0091",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2811,
+  "height": 6363,
+  "sizes": [
+    {
+      "width": 2811,
+      "height": 6363
+    },
+    {
+      "width": 250,
+      "height": 566
+    },
+    {
+      "width": 1140,
+      "height": 2581
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

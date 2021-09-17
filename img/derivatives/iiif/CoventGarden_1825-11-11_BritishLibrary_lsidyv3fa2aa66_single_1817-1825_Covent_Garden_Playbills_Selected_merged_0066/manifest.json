@@ -1,0 +1,50 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066.json",
+          "label": "front",
+          "width": 2884,
+          "height": 4708,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2884,
+                "height": 4708
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/full/1140,/0/default.jpg"
+}

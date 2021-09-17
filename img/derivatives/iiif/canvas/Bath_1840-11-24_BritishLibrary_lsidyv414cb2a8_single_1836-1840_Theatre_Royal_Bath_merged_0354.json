@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@type": "sc:Canvas",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354.json",

@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@type": "oa:Annotation",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184.json",

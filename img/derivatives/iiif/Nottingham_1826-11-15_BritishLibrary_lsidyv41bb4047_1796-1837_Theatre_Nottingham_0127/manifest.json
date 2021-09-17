@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/manifest.json",

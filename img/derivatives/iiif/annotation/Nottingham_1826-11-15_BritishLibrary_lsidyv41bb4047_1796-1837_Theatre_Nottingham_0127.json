@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@type": "oa:Annotation",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127.json",

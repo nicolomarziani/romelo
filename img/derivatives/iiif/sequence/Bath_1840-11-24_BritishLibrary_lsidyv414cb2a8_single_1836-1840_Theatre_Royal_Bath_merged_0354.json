@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354.json",
   "@type": "sc:Sequence",

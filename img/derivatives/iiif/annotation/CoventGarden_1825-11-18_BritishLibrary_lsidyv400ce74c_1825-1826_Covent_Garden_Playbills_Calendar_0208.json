@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@type": "oa:Annotation",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208.json",
