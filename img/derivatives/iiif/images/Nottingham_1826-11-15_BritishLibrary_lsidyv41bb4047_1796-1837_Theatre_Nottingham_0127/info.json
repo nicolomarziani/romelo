@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2500,
+  "height": 5854,
+  "sizes": [
+    {
+      "width": 2500,
+      "height": 5854
+    },
+    {
+      "width": 250,
+      "height": 585
+    },
+    {
+      "width": 1140,
+      "height": 2669
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

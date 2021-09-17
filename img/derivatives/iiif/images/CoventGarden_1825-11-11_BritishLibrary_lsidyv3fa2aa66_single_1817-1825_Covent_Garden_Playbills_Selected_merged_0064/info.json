@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0064",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2878,
+  "height": 4704,
+  "sizes": [
+    {
+      "width": 2878,
+      "height": 4704
+    },
+    {
+      "width": 250,
+      "height": 409
+    },
+    {
+      "width": 1140,
+      "height": 1863
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
