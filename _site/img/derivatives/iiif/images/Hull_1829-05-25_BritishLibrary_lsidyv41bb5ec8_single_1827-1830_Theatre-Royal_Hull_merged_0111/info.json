@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1671,
+  "height": 3515,
+  "sizes": [
+    {
+      "width": 1671,
+      "height": 3515
+    },
+    {
+      "width": 250,
+      "height": 526
+    },
+    {
+      "width": 1140,
+      "height": 2398
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

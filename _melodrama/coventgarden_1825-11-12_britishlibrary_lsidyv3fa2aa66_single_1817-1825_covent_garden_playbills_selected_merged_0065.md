@@ -620,4 +620,7 @@ shows:
 order: '21'
 layout: melodrama_item
 collection: melodrama
+thumbnail: "/img/derivatives/iiif/images/CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065/manifest.json"
 ---

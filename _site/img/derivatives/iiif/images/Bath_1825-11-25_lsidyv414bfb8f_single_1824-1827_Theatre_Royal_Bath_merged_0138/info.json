@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2899,
+  "height": 4569,
+  "sizes": [
+    {
+      "width": 2899,
+      "height": 4569
+    },
+    {
+      "width": 250,
+      "height": 394
+    },
+    {
+      "width": 1140,
+      "height": 1797
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

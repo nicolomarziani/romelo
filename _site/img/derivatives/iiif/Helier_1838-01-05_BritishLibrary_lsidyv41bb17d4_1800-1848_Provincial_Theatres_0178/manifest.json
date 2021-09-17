@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/img/derivatives/iiif/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178",
+  "thumbnail": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/img/derivatives/iiif/sequence/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/img/derivatives/iiif/canvas/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178.json",
+          "label": "front",
+          "width": 3046,
+          "height": 6834,
+          "thumbnail": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/img/derivatives/iiif/annotation/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3046,
+                "height": 6834
+              },
+              "on": "/img/derivatives/iiif/canvas/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/full/0/default.jpg"
+}

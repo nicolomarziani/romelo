@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2490,
+  "height": 4139,
+  "sizes": [
+    {
+      "width": 2490,
+      "height": 4139
+    },
+    {
+      "width": 250,
+      "height": 416
+    },
+    {
+      "width": 1140,
+      "height": 1895
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

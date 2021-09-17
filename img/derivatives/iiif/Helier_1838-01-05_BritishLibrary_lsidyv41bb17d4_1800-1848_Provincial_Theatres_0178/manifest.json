@@ -45,6 +45,5 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/full/0/default.jpg"
 }

@@ -1,15 +1,108 @@
 [
   {
-    "pid": "lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0146",
-    "label": "1799-04-13 Covent Garden",
+    "pid": "Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213",
+    "label": "Theatre Royal, Newcastle, 19 July 1830",
     "archiveHoldingDocument": "British Library",
     "announcements": [
+      "RE-ENGAGEMENT OF Signor Mortini, The unrivalled and justly celebrated POSTURE MASTER, CONTORTIONIST, and MAN-MONKEY, from the Theatres-Royal Drury-Lane, Dublin, Edinburgh, &c. &c.",
+      "The whole to conclude with the original Melo Drama, (the fame of which excited so extraordinary a sensation in the different Metropolis of the Continent of Europe, during the life of the celebrated Mazurier,) entitled\nJOCKO; OR, THE BRAZILIAN APE."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213",
+    "lunr_id": 0
+  },
+  {
+    "pid": "CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065",
+    "label": "Covent Garden, 12 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "JOCKO, The Brazilian Monkey, will be repeated every Evening.",
+      "On Wednesday will be produced a NEW COMEDY, in five acts, called LOVE'S VICTORY; or, a SCHOOL for PRIDE. The principal characters by Mr. EGERTON, Mr. C. KEMBLE,\nMr. DURUSET, Mr. Power, Mr. W. FARREN, Mr. JONES, Mr. BLANCHARD,\nMiss LACEY, Miss JONES, Miss HENRY, Miss LOVE."
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065",
+    "lunr_id": 1
+  },
+  {
+    "pid": "Plymouth_1838-08-08_BritishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0231",
+    "label": "Theatre Royal Plymouth, 8 August 1838",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "MR. HAY Respectfully informs the Nobility, Gentry, and Inhabitants of Plymouth, Stonehouse, Devonport, and their Vicinities, he has taken the THEATRE for THE PUBLIC WEEKS, and has made an Engagement with MISS RANKLEY FROM THE THEATRE-ROYAL, DUBLIN, MISS HATTON, FROM THE THEATRE-ROYAL DRURY LANE, Middle. Hall, FROM HER MAJESTY'S THEATRE, THE ITALIAN OPERA, AND THE WONDERFUL MONSIEUR GOUFFE, THE CELEBRATED MAN MONKEY!"
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Plymouth_1838-08-08_BritishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0231/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Plymouth_1838-08-08_BritishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0231",
+    "lunr_id": 2
+  },
+  {
+    "pid": "CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216",
+    "label": "Covent Garden, 30 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The Scape-Goat will be repeated Tomorrow, Friday and Saturday",
+      "",
       ""
     ],
     "collection": "melodrama",
-    "thumbnail": "/img/derivatives/iiif/images/lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0146/full/250,/0/default.jpg",
-    "permalink": "/melodrama/lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0146",
-    "lunr_id": 0
+    "permalink": "/melodrama/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216",
+    "lunr_id": 3
+  },
+  {
+    "pid": "Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139",
+    "label": "Theatre Royal Bath, 26 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "POSITIVELY THE LAST NIGHT BUT TWO OF Mr. DUCROW, Whose Engagement cannot be extended beyond TUESDAY next.",
+      "The extraordinary and increasing success in London, of the Melodrame of JOCKO, has decided the Manager to profit of the offer made by Mr. DUCROW to perform the part of the BRAZILIAN APE, as he produced the character at the Royal Amphitheatre with unbounded applause. The remark may not be misplaced, that Mr. DUCROW is the only rival of M. MAZURIER, the French Artist, engaged at an enormous salary at Covent-Garden Theatre, for the representation of characters of this cast requiring extraordinary power of flexibility & transformation.\n",
+      "THE PUBLIC ARE RESPECTFULLY INFORMED THAT MR. SAPIO, Is Engaged for SIX NIGHTS, and will make his first appearance on WEDNESDAY, 30th instant.\n",
+      "For the accommodation of those whose avocations will not admit of their attending the Theatre at an early hour and who are desirous of witnessing Mr. DUCROW's extraordinary Performances, HALF-PRICE will be taken as usual at a QUARTER BEFORE NINE.",
+      "On Tuesday, Mr. DUCROW's Benefit and his Last Performance here."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139",
+    "lunr_id": 4
+  },
+  {
+    "pid": "Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127",
+    "label": "Theatre Nottingham, 15 November 1826",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "Second Night of Mons. Gouffe's Engagement.\nThe Wonder of the Age, and first of the new Melo Drama of JOCKO."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127",
+    "lunr_id": 5
+  },
+  {
+    "pid": "Bath_1840-11-23_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0353",
+    "label": "Theatre Royal Bath, 23 November 1840",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "First Appearance of Mons, GOUFFEE in Bath\nIn an entirely New Drama, written to display his WONDERFUL TALENT!\nWhose extraordinary Performances have been witnessed by crowded audiences not only in England, but in every Theatre on the vast Continent of America, for the last four years. The spirit and confidence with which this Phenomenon performs his Evolutions, keep the spectator in continual wonder! His Feats are performed with that decided ease which characterizes the ANIMAL, of whose eccentricity Mons. GOUFFEE is so happy in his illustration.",
+      "Roars of Laughter at FAMILY JARS MENDED!\n",
+      "NOTICE. -- To the Ladies of Bath and its Vicinity.--In consequence of the great sensation created in London during the last Winter, by the formation of a Ladies' Club; the Management, ever anxious lo please their Patrons, propose to establish at the Theatre-Royal, Bath, a Ladies' Matrimonial Club, which will commence its Sittings early in the ensuing Week. Mr. BROWNELL will be in daily attendance, from Eleven till Four, to receive Subscribers' Names, Subscriptions, &c. The Members will be elected by Ballot each Evening the Club meets.\n"
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Bath_1840-11-23_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0353/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Bath_1840-11-23_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0353",
+    "lunr_id": 6
+  },
+  {
+    "pid": "Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111",
+    "label": "Theatre Royal Hull, 25 May 1829",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "MR. BUTLER HAVING made arrangements with Mr. CUMMINS to Open the above elegant edifice, respectfully notifies to the Ladies and Gentlemen, and the Inhabitants in general of Hull and its environs, that THREE EVENINGS' PERFORMANCES will take place on MONDAY, 25th instant, TUESDAY 26th, and FRIDAY 29th; when MONS. GOUFFE. of the London Theatres, who has long been highly celebrated as the most wonderful representative of the MONKEY, will make his first appearance. - (A Person, last Summer, having been the source of considerable disappointment by assuming a similar name, and usurping the character of MONS. GOUFFE, Mr. Butler pledges his honour that the Person now introduced is the original Performer who excited universal astonishment in London.)",
+      "The Manager wishing to offer to the Public an entertainment so arranged as not to interfere with those recreations which usually occupy the early part of the Evening, the Curtain will rise at Eight o'clock, and the Performance close about Half-past Ten; and, in consideration of the limited time, the Prices of Admission will be reduced to - Boxes, 2s. 6d.; Upper Boxes, 2s.; Pit, 1s. 6d.; Lower Gallery, 1s. Second Price at Nine o'Clock-Boxes, 2s.; Upper Boxes, 1s. 6d.; Pit, 1s.; Gallery, 6d."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111",
+    "lunr_id": 7
   },
   {
     "pid": "lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0147",
@@ -21,19 +114,100 @@
     "collection": "melodrama",
     "thumbnail": "/img/derivatives/iiif/images/lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0147/full/250,/0/default.jpg",
     "permalink": "/melodrama/lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0147",
-    "lunr_id": 1
+    "lunr_id": 8
   },
   {
-    "pid": "lsidyv4045b355_1809-1815_Theatre_Royal_Haymarket_0209",
-    "label": "1811-09-30 Haymarket",
+    "pid": "CoventGarden_1825-11-14_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066",
+    "label": "Covent Garden, 14 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "JOCKO, The Brazilian Monkey, will be repeated every Evening.",
+      "On Wednesday will be produced a NEW COMEDY, in five acts, called LOVE'S VICTORY; or, a SCHOOL for PRIDE. The principal characters by Mr. EGERTON, Mr. C. KEMBLE,\nMr. DURUSET, Mr. Power, Mr. W. FARREN, Mr. JONES, Mr. BLANCHARD,\nMiss LACEY, Miss JONES, Miss HENRY, Miss LOVE."
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-14_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066",
+    "lunr_id": 9
+  },
+  {
+    "pid": "Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178",
+    "label": "New Theatre Royal, Crescent, St. Helier, Jersey, 15 January 1838",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "By Permission of Sir John De Veullo, Knight, Bailli.",
+      "SECOND APPEARANCE OF\nSIGNOR PLIMMERI.\nsurnamed the YOUNG MASURIER, from the London Theatres, who is engaged\nfor FOUR NIGHTS ONLY."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178",
+    "lunr_id": 10
+  },
+  {
+    "pid": "Birmingham_1831-05-24_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0311",
+    "label": "Theatre Royal Birmingham, 24 May 1831",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "Greater Novelty, Conspicuous Talent, AND MORE WONDERFUL PERFORMANCES,\nThan are usually combined for the WHITSUN HOLIDAYS AND THE FAIR.",
+      "The unprecedented and rapturous Approbation bestowed on the Mesdemoiselles CELESTE AND CONSTANCE Has induced the Manager to re-engage these most elegant and fascinating OPERA DANCERS for TUESDAY, and WEDNESDAY, being assuredly the last nights they can appear here, their engagement in Scotland commencing on Monday next, and this night they will repeat those very ELEGANT DANCES, besides their Performance in the celebrated Military and Historical Drama, founded on the late CONQUEST OF ALGIERS, and as represented at this Theatre on Thursday last, with the most intense interest and approbation, and in which the peculiar talent of MADEMOISELLE CELESTE is displayed in the most striking manner.\n",
+      "SECOND APPEARANCE OF Mr. WILSON ON THE TIGHT ROPE! AND Signor Mortini the Man Monkey!"
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Birmingham_1831-05-24_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0311/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Birmingham_1831-05-24_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0311",
+    "lunr_id": 11
+  },
+  {
+    "pid": "lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0146",
+    "label": "1799-04-13 Covent Garden",
     "archiveHoldingDocument": "British Library",
     "announcements": [
       ""
     ],
     "collection": "melodrama",
-    "thumbnail": "/img/derivatives/iiif/images/lsidyv4045b355_1809-1815_Theatre_Royal_Haymarket_0209/full/250,/0/default.jpg",
-    "permalink": "/melodrama/lsidyv4045b355_1809-1815_Theatre_Royal_Haymarket_0209",
-    "lunr_id": 2
+    "thumbnail": "/img/derivatives/iiif/images/lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0146/full/250,/0/default.jpg",
+    "permalink": "/melodrama/lsidyv3fa2a8c1_1797-1800_Covent_Garden_Playbills_0146",
+    "lunr_id": 12
+  },
+  {
+    "pid": "Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316",
+    "label": "Theatre Royal Birmingham, 28 May 1831",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The Theatre open Thursday, Friday, and Saturday, THE FAIR DAYS.",
+      "“THE FLYING DUTCHMAN, or PHANTOM SHIP,\" is said to be an Amsterdam Vessel, which about a century ago sailed from that port; the master's name was Vanderdecken, whose constant boast it was, that \"he would have his own way in spite of the Devil.\"\n\nOnce on doubling the Cape, they were a whole day trying to weather Table Bay, the wind increasing a-head of them, and Vanderdecken, walking the deck, continued to swear fearfully. Just after sunset, he was spoke by a vessel, who asked him if he did not mean to go into the Bay that night, to which, Vanderdecken, with a tremendous oath, replied, \"he would not; though he should beat about till the day of judgment.\" Vanderdecken never did go into Table Bay; and is believed to undergone the doom he so desperately dared. His vessel is still seen in the Cape Seas, in foul weather, sailing against the fiercest storm with every inch of canvass set, striving in vain to reach her home, or to send despatches to relatives by other vessels. The above, on which the Drama is founded, was taken from a short and interesting account in Blackwood's Magazine.",
+      "After The Flying Dutchman, a great variety of elegant and FASHIONABLE DANCING BY THE MESDEMOISELLES Celeste and Constance."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316",
+    "lunr_id": 13
+  },
+  {
+    "pid": "Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184",
+    "label": "Theatre Royal Lancaster, 16 march 1829",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "FOR THE BENEFIT OF\nMRS. HOWARD.\nMrs. HOWARD in announcing her BENEFIT to the Ladies, Gentlemen, and\nPublic in general, regrets that through severe indisposition, she has been unable\nto appear before them during the present Assizes, and solicits that share of Patronage which she has hitherto received.",
+      "THE WONDER OF THE AGE!\nMONS. GOUFFE,\nIS ENGAGED FOR THREE NIGHTS.\nThe spirit and confidence with which MONSIEUR GOUFFE performs his Tricks, Leaps, Escapes from his pursuers, &c. keeps the spectator in constant good humour; nor can any emotion of fear, for one moment disturb the pleasure excited by his varied feats, as they are all performed with that apparent ease which characterises the Animal MONSIEUR GOUFFE is so happy in his imitation of.",
+      "LAST NIGHT but 4 of Mr. BUTLER'S Engagement."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184",
+    "lunr_id": 14
+  },
+  {
+    "pid": "Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354",
+    "label": "Theatre Royal Bath, 24 November 1840",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "Tremendous sensation created by the Wonderful Feats of the MAN MONKEY.",
+      "Whose extraordinary Performances have been witnessed by crowded audiences not only in England, but in every Theatre on the vast Continent of America, for the last four years. The spirit and confidence with which this Phenomenon performs his Evolutions, keep the spectator in continual wonder! His Feats are performed with that decided ease which characterizes the ANIMAL, of whose eccentricity Mons. GOUFFEE is so happy in his illustration.",
+      "NOTICE. -- To the Ladies of Bath and its Vicinity.--In consequence of the great sensation created in London during the last Winter, by the formation of a Ladies' Club; the Management, ever anxious lo please their Patrons, propose to establish at the Theatre-Royal, Bath, a Ladies' Matrimonial Club, which will commence its Sittings early in the ensuing Week. Mr. BROWNELL will be in daily attendance, from Eleven till Four, to receive Subscribers' Names, Subscriptions, &c. The Members will be elected by Ballot each Evening the Club meets.\n"
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354",
+    "lunr_id": 15
   },
   {
     "pid": "lsidyv41b2af05_1830-1832_Dublin_Theatre_Royal_0020",
@@ -45,7 +219,32 @@
     "collection": "melodrama",
     "thumbnail": "/img/derivatives/iiif/images/lsidyv41b2af05_1830-1832_Dublin_Theatre_Royal_0020/full/250,/0/default.jpg",
     "permalink": "/melodrama/lsidyv41b2af05_1830-1832_Dublin_Theatre_Royal_0020",
-    "lunr_id": 3
+    "lunr_id": 16
+  },
+  {
+    "pid": "Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036",
+    "label": "Theatre Colchester, 21 November 1828",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "Monsr. GOUFFE'S THIRD NIGHT."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036",
+    "lunr_id": 17
+  },
+  {
+    "pid": "CoventGarden_1825-11-16_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0204",
+    "label": "Covent Garden, 16 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "NEVER ACTED",
+      "JOCKO, The Brazilian Monkey.\nwill be repeated every Evening."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-16_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0204/full/250,/0/default.jpg",
+    "permalink": "/melodrama/CoventGarden_1825-11-16_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0204",
+    "lunr_id": 18
   },
   {
     "pid": "lsidyv4332b851_1809-1821_Lyceum_English_Opera_0335",
@@ -57,6 +256,221 @@
     "collection": "melodrama",
     "thumbnail": "/img/derivatives/iiif/images/lsidyv4332b851_1809-1821_Lyceum_English_Opera_0335/full/250,/0/default.jpg",
     "permalink": "/melodrama/lsidyv4332b851_1809-1821_Lyceum_English_Opera_0335",
-    "lunr_id": 4
+    "lunr_id": 19
+  },
+  {
+    "pid": "CoventGarden_1825-12-13_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0227",
+    "label": "Covent Garden, 13 December 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The Three Strangers will be repeated Tomorrow, and Friday, and three times a week till further notice.",
+      "The new Operatick Piece in two acts (taken from the French) called TWAS I,\nwill be repeated Tomorrow, Friday and Saturday next.",
+      "Books of the Songs [for Twas I] to be had in the theatre, price 10d."
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-12-13_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0227",
+    "lunr_id": 20
+  },
+  {
+    "pid": "Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243",
+    "label": "Theatre Royal Plymouth, 28 January 1839",
+    "archiveHoldingDocument": "Briitish Library",
+    "announcements": [
+      "MADAME INEZ has entered into an Engagement with\nMovs. GOUFFE\nTHE CELEBRATED MAN MONKEY,\nFor Two Nights only!\nWho will have the honour of making HIS FIRST APPEARANCE this Evening, in the part of JOCKO.",
+      "In consequence of Mr. Rowe's Concert taking place on Tuesday, the Nights of\nPerformance this Week will be MONDAY, WEDNESDAY, THURSDAY, & FRIDAY."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243",
+    "lunr_id": 21
+  },
+  {
+    "pid": "CoventGarden_1825-11-10_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0063",
+    "label": "Covent Garden, 10 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "JOCKO, The Brazilian Monkey, will be repeated every Evening.",
+      "On Wednesday will be produced a NEW COMEDY, in five acts, called LOVE'S VICTORY; or, a SCHOOL for PRIDE."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-10_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0063/full/250,/0/default.jpg",
+    "permalink": "/melodrama/CoventGarden_1825-11-10_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0063",
+    "lunr_id": 22
+  },
+  {
+    "pid": "CoventGarden_1825-11-09_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0062",
+    "label": "Covent Garden, 9 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "JOCKO, The Brazilian Monkey, will be repeated every Evening.",
+      "On Wednesday will be produced a NEW COMEDY, in five acts, called LOVE'S VICTORY; or, a SCHOOL for PRIDE."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-09_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0062/full/250,/0/default.jpg",
+    "permalink": "/melodrama/CoventGarden_1825-11-09_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0062",
+    "lunr_id": 23
+  },
+  {
+    "pid": "CoventGarden_1825-11-21_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208",
+    "label": "Covent Garden, 21 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The New Comedy called LOVE's VICTORY; or, a SCHOOL for PRIDE, will be repeated Tuesday and Thursday next, and three times a week till further notice.",
+      "JOCKO, The Brazilian Monkey.\nwill be repeated on Wednesday, and Friday.",
+      ""
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-21_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208",
+    "lunr_id": 24
+  },
+  {
+    "pid": "Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249",
+    "label": "Theatre Drayton, 17 August 1839",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "POSITIVELY OPEN FOR\nONE NIGHT ONLY!\nAs the Company all appear in Newcastle on the Monday Night.\n[ILLUSTRATION]\nTHE GREATEST NOVELTY OF THE DAY!\nMONS.\nGOUFFE!\nTHE ORIGINAL\nMAN MONKEY!",
+      "MR. RIDYARD respectfully announces to his patrons and friends, that he has brought over at a considerable expence, MONS. GOUFFE, together with the following talented performers; - Miss STANTON, from the Theatre Royal, Worcester. - Miss S. BECKWITH, principal vocalist from the Theatre Royal, Manchester. - Mr. BARTON, from the Surry Theatre, London. - Mr. WILMOT, from the Norwich Theatre - Mr. RIDYARD. - Mr. DUNCANSON. - Mr. STYLES. - Mr. COATES, and Mr. T. MERCER, leader of the Orchestra, late of the Theatre Royal, Drury Lane.",
+      "No Half-Price. Children under 12 years of Age Half-Price."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249",
+    "lunr_id": 25
+  },
+  {
+    "pid": "Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113",
+    "label": "Theatre Royal Hull, 29 May 1829",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "For the Benefit of\nMons. GOUFFE,\nAnd the Last Night of his Engagement.\n",
+      "The Manager wishing to offer to the Public an entertainment so arranged as not to interfere with those recreations which usually occupy the early part of the Evening, the Curtain will rise at Eight o'clock, and the Performance close about Half-past Ten; and, in consideration of the limited time, the Prices of Admission will be reduced to - Boxes, 2s. 6d.; Upper Boxes, 2s.; Pit, 1s. 6d.; Lower Gallery, 1s. Second Price at Nine o'Clock-Boxes, 2s.; Upper Boxes, 1s. 6d.; Pit, 1s.; Gallery, 6d."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113",
+    "lunr_id": 26
+  },
+  {
+    "pid": "CoventGarden_1825-11-15_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0067",
+    "label": "Covent Garden, 15 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "JOCKO, The Brazilian Monkey, will be repeated every Evening.",
+      "The Opera of CLARI is obliged to be postponed on account of the\nindisposition of Miss PATON."
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-15_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0067",
+    "lunr_id": 27
+  },
+  {
+    "pid": "CoventGarden_1825-11-17_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0068",
+    "label": "Covent Garden, 17 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The New Comedy called\nLOVE's VICTORY; or, a SCHOOL for PRIDE.\nwill be repeated on Saturday, Tuesday and Thursday next,\nand three times a week till further notice.",
+      "JOCKO, The Brazilian Monkey.\nwill be repeated every Evening."
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-17_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0068",
+    "lunr_id": 28
+  },
+  {
+    "pid": "Devenport_1830-07-01_BritishLibrary_lsidyv41bb1921_1790-1847_Provincial_Theatres_Der-Dev_0091",
+    "label": "Theatre Devenport, 1 July 1830",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The Public are respectfully informed, that by Command of His Majesty King William IV. the Metropolitan Theatres are not required to be closed except on the day of the funeral of his late Majesty, the above THEATRE will therefore be RE-OPENED On THURSDAY, July 1st, 1830,\nWHEN MONSIEUR GOUFFE Whose delineation of the Monkey species has excited the admiration of numerous audiences at the Surrey, Sadlers Wells, and Royal Cobourg Theatres, in London, and all the principal provincial Theatres in the Kingdom, will make his FIRST APPEARANCE here in the character of The Brazilian Ape, Being engaged for a FEW NIGHTS ONLY."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Devenport_1830-07-01_BritishLibrary_lsidyv41bb1921_1790-1847_Provincial_Theatres_Der-Dev_0091/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Devenport_1830-07-01_BritishLibrary_lsidyv41bb1921_1790-1847_Provincial_Theatres_Der-Dev_0091",
+    "lunr_id": 29
+  },
+  {
+    "pid": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0206",
+    "label": "Covent Garden, 18 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The New Comedy called\nLOVE's VICTORY; or, a SCHOOL for PRIDE.\nwill be repeated Tomorrow, Tuesday and Thursday next, and three times a week till further notice.",
+      "JOCKO, The Brazilian Monkey.\nwill be repeated every Evening.",
+      "PLACES for the BOXES to be had at the Box-Office, Hart-street, from Ten till Four; where PRIVATE BOXES may also be had for the Season, or Nightly."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0206/full/250,/0/default.jpg",
+    "permalink": "/melodrama/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0206",
+    "lunr_id": 30
+  },
+  {
+    "pid": "CoventGarden_1825-11-19_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0207",
+    "label": "Covent Garden, 19 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The New Comedy called LOVE's VICTORY; or, a SCHOOL for PRIDE, will be repeated on Tuesday and Thursday next, and three times a week till further notice.",
+      "JOCKO, The Brazilian Monkey,\nwill be repeated on Monday, Wednesday, and Friday."
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-19_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0207",
+    "lunr_id": 31
+  },
+  {
+    "pid": "lsidyv4045b355_1809-1815_Theatre_Royal_Haymarket_0209",
+    "label": "1811-09-30 Haymarket",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      ""
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/lsidyv4045b355_1809-1815_Theatre_Royal_Haymarket_0209/full/250,/0/default.jpg",
+    "permalink": "/melodrama/lsidyv4045b355_1809-1815_Theatre_Royal_Haymarket_0209",
+    "lunr_id": 32
+  },
+  {
+    "pid": "Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138",
+    "label": "Theatre Royal Bath, 25 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The Equestrian Spectacle OF Mr. DUCROW and his individual exertions met with merited success and were accompanied throughout with rapturous applause, the Performances of the TRAINED HORSES created the strongest sensations of delight and interest in a fashionable and numerous audience.",
+      "MR. DUCROW HAS BUT THREE MORE NIGHTS TO COMPLETE HIS ENGAGEMENT, WHICH CANNOT BE PROLONGED.\n",
+      "The extraordinary and increasing success in London, of the Melodrame of JOCKO, has decided the Manager to profit of the offer made by Mr. DUCROW to perform the part of the BRAZILIAN APE, as he produced the character at the Royal Amphitheatre with unbounded applause. The remark may not be misplaced, that Mr. DUCROW is the only rival of M. MAZURIER, the French Artist, engaged at an enormous salary at Covent-Garden Theatre, for the representation of characters of this cast requiring extraordinary power of flexibility & transformation."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138/full/250,/0/default.jpg",
+    "permalink": "/melodrama/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138",
+    "lunr_id": 33
+  },
+  {
+    "pid": "CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0064",
+    "label": "Covent Garden, 11 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "JOCKO, The Brazilian Monkey, will be repeated every Evening.",
+      "On Wednesday will be produced a NEW COMEDY, in five acts, called LOVE'S VICTORY; or, a SCHOOL for PRIDE."
+    ],
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0064/full/250,/0/default.jpg",
+    "permalink": "/melodrama/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0064",
+    "lunr_id": 34
+  },
+  {
+    "pid": "CoventGarden_1825-11-23_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210",
+    "label": "Covent Garden, 23 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": [
+      "The New Comedy called LOVE's VICTORY; or, a SCHOOL for PRIDE, will be repeated on Tuesday and Thursday next, and three times a week till further notice.",
+      ""
+    ],
+    "collection": "melodrama",
+    "permalink": "/melodrama/CoventGarden_1825-11-23_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210",
+    "lunr_id": 35
+  },
+  {
+    "pid": "CoventGarden_1825-11-08_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0061",
+    "label": "Covent Garden, 8 November 1825",
+    "archiveHoldingDocument": "British Library",
+    "announcements": null,
+    "collection": "melodrama",
+    "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-08_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0061/full/250,/0/default.jpg",
+    "permalink": "/melodrama/CoventGarden_1825-11-08_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0061",
+    "lunr_id": 36
   }
 ]

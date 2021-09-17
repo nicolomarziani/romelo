@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Plymouth_1838-08-08_BritishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0231",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1991,
+  "height": 3956,
+  "sizes": [
+    {
+      "width": 1991,
+      "height": 3956
+    },
+    {
+      "width": 250,
+      "height": 497
+    },
+    {
+      "width": 1140,
+      "height": 2265
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

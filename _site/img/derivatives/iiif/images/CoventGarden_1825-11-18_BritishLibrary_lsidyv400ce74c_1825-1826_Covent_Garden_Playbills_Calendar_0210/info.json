@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2850,
+  "height": 4727,
+  "sizes": [
+    {
+      "width": 2850,
+      "height": 4727
+    },
+    {
+      "width": 250,
+      "height": 415
+    },
+    {
+      "width": 1140,
+      "height": 1891
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

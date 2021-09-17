@@ -45,6 +45,5 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/full/0/default.jpg"
 }

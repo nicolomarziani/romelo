@@ -45,6 +45,5 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243/full/full/0/default.jpg"
 }

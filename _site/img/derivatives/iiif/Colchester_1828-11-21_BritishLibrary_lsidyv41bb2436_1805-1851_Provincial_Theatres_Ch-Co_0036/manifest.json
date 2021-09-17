@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/img/derivatives/iiif/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036",
+  "thumbnail": "/img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/img/derivatives/iiif/sequence/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/img/derivatives/iiif/canvas/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036.json",
+          "label": "front",
+          "width": 3133,
+          "height": 6767,
+          "thumbnail": "/img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/img/derivatives/iiif/annotation/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3133,
+                "height": 6767
+              },
+              "on": "/img/derivatives/iiif/canvas/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "/img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036/full/full/0/default.jpg"
+}

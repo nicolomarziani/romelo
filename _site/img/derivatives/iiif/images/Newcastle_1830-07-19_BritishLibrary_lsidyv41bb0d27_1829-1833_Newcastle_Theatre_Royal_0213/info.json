@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1619,
+  "height": 4052,
+  "sizes": [
+    {
+      "width": 1619,
+      "height": 4052
+    },
+    {
+      "width": 250,
+      "height": 626
+    },
+    {
+      "width": 1140,
+      "height": 2853
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

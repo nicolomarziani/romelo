@@ -13,6 +13,11 @@ layout: none
       "label": "Bath_1840-11-23_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0353"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-23_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CoventGarden_1825-11-23_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-10_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0063/manifest.json",
       "@type": "sc:Manifest",
       "label": "CoventGarden_1825-11-10_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0063"
@@ -23,9 +28,9 @@ layout: none
       "label": "Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0227/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-19_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0207/manifest.json",
       "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0227"
+      "label": "CoventGarden_1825-11-19_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0207"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354/manifest.json",
@@ -48,9 +53,19 @@ layout: none
       "label": "Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-12-13_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0227/manifest.json",
       "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065"
+      "label": "CoventGarden_1825-12-13_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0227"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CoventGarden_1825-11-12_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0065"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-14_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CoventGarden_1825-11-14_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0067/manifest.json",
@@ -58,14 +73,9 @@ layout: none
       "label": "CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0067"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-15_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0067/manifest.json",
       "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0066"
+      "label": "CoventGarden_1825-11-15_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0067"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Hull_1829-05-25_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0111/manifest.json",
@@ -98,6 +108,11 @@ layout: none
       "label": "Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Birmingham_1831-05-24_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0311/manifest.json",
       "@type": "sc:Manifest",
       "label": "Birmingham_1831-05-24_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0311"
@@ -118,11 +133,6 @@ layout: none
       "label": "Devenport_1830-07-01_BritishLibrary_lsidyv41bb1921_1790-1847_Provincial_Theatres_Der-Dev_0091"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0210"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-09_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0062/manifest.json",
       "@type": "sc:Manifest",
       "label": "CoventGarden_1825-11-09_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0062"
@@ -138,19 +148,14 @@ layout: none
       "label": "Plymouth_1838-08-08_BritishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0231"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0068/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-11_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0068"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0207/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0207"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-08_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0061/manifest.json",
       "@type": "sc:Manifest",
       "label": "CoventGarden_1825-11-08_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0061"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-21_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CoventGarden_1825-11-21_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0208"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113/manifest.json",
@@ -163,9 +168,9 @@ layout: none
       "label": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0206"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CoventGarden_1825-11-17_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0068/manifest.json",
       "@type": "sc:Manifest",
-      "label": "CoventGarden_1825-11-18_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216"
+      "label": "CoventGarden_1825-11-17_BritishLibrary_lsidyv3fa2aa66_single_1817-1825_Covent_Garden_Playbills_Selected_merged_0068"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243/manifest.json",
