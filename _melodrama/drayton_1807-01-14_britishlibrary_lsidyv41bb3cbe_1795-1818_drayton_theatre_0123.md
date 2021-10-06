@@ -1,0 +1,1148 @@
+---
+pid: Drayton_1807-01-14_BritishLibrary_lsidyv41bb3cbe_1795-1818_Drayton_Theatre_0123
+label: Theatre, Drayton, 14 January 1807
+archiveHoldingDocument: British Library
+callNumber: lsidyv41bb3cbe_1795-1818_Drayton_Theatre_0123
+containingCollection: British Library Playbills
+dataCataloger: Deven Parker
+documentType: Playbill
+pageNumber: ''
+periodicalTitle: ''
+persistentUrl: ''
+announcements:
+- ''
+- ''
+- ''
+dimensions:
+  length: ''
+  width: ''
+documentPrinter:
+  location: Drayton
+  name: Procter
+printedArea:
+  length: ''
+  width: ''
+shows:
+- date: '1807-01-14'
+  doorsOpen: ''
+  location: Drayton
+  performanceBegins: '18:30'
+  stageManager: ''
+  theaterCompany: ''
+  venue: Theatre, Drayton
+  featuredAttractionsForShow:
+  - ''
+  - ''
+  - ''
+  - ''
+  notes:
+  - ''
+  occasions:
+  - occasionAsStated: ''
+    occasionType: ''
+    beneficiary:
+    - ''
+    - ''
+    - ''
+    occasioner:
+    - ''
+  performances:
+  - orderOfPerformance: '1'
+    title: Douglas; Or, the Noble Shepherd
+    timePerformedInSeason: ''
+    playbillGenreClaim: Tragedy
+    ourGenreAttribution:
+    - Tragedy
+    contributors:
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    featuredAttractions:
+    - attraction: ''
+      isInterpolation: false
+    performers:
+    - performerName: Mr. Calcote
+      role: Lord Randolph
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Fairbairn
+      role: Glenalvon
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Waring
+      role: Young Norval, the Noble Shepherd
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Webber
+      role: Old Norval
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Forester
+      role: Officers
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Maitland
+      role: Officers
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Reynolds
+      role: Officers
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Moorfield
+      role: Officers
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mrs. Waring
+      role: Lady Randolph
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Miss Phelps
+      role: Anna
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+  - orderOfPerformance: '2'
+    title: 'Blue Beard: Or, Female Curiosity'
+    timePerformedInSeason: ''
+    playbillGenreClaim: Grand Dramatic Romance
+    ourGenreAttribution:
+    - Melodrama
+    - ''
+    contributors:
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    - contributorName: ''
+      contributorType: ''
+    featuredAttractions:
+    - attraction: THE PRINCIPLE SCENERY IN THIS ADMIRABLE PIECE IS A Mountainous View
+        in Turkey, AND A MAGNIFICENT PROCESSION, Of Blue Beard and his Retinue from
+        the Distant Country A BRILLIANT DISPLAY OF THE BASHAW's Illuminated Temple
+        & Garden, The MYSTIC TALISMAN of the GOLDEN KEY. The Enchanted BLUE CHAMBER,
+        which Changes to the CAVERN OF DEATH. Skeleton of Death and Blue Beards Portraits,
+        A Picturesque View of Blue Beard's Castle. SELIM's Attack, Conflict, and overthrow
+        of ABOMELIQUE. Death Striking Blue Beard, and Innocence Triumphant. On account
+        of the great expence attending this Performance, no Half Price can be taken.
+      isInterpolation: false
+    - attraction: ''
+      isInterpolation: false
+    - attraction: ''
+      isInterpolation: false
+    performers:
+    - performerName: Mr. Fairbairn
+      role: Abomelique (Blue Beard)
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Phelps
+      role: Ibrahim
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Maitland
+      role: Selim
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Stanton
+      role: Shacabac
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mr. Forester
+      role: Hassan
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Miss Parsons
+      role: Fatima
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Mrs. Fenton
+      role: Irene
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: Miss Weston
+      role: Beda
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+  - orderOfPerformance: ''
+    title: ''
+    timePerformedInSeason: ''
+    playbillGenreClaim: ''
+    ourGenreAttribution:
+    - ''
+    contributors:
+    - contributorName: ''
+      contributorType: ''
+    featuredAttractions:
+    - attraction: ''
+      isInterpolation: false
+    performers:
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+  - orderOfPerformance: ''
+    title: ''
+    timePerformedInSeason: ''
+    playbillGenreClaim: ''
+    ourGenreAttribution:
+    - ''
+    contributors:
+    - contributorName: ''
+      contributorType: ''
+    featuredAttractions:
+    - attraction: ''
+      isInterpolation: false
+    performers:
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+    - performerName: ''
+      role: ''
+      roleNotes: ''
+      newPerformerNotes:
+        newPerformer: false
+        newPerformerOrigin: ''
+        newRole: false
+  ticketing:
+    currency: UK
+    boxPrice: '36'
+    secondBoxPrice: ''
+    upperBoxPrice: ''
+    secondUpperBoxPrice: ''
+    pitPrice: '24'
+    secondPitPrice: ''
+    galleryPrice: '12'
+    secondGalleryPrice: ''
+    upperGalleryPrice: ''
+    secondUpperGalleryPrice: ''
+    toBeHad: TICKETS to be had of Mr. PROCTER, Bookseller; and of Mr. STANTON, at
+      Mr. SILLITOE's, Horse-Market.
+    ticketingNotes: ''
+order: '070'
+layout: melodrama_item
+collection: melodrama
+---
