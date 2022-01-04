@@ -1,0 +1,29 @@
+{
+  "@type": "sc:Canvas",
+  "@id": "/img/derivatives/iiif/canvas/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184.json",
+  "label": "front",
+  "width": 2100,
+  "height": 3548,
+  "thumbnail": "/img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "/img/derivatives/iiif/annotation/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "/img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "/img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 2100,
+        "height": 3548
+      },
+      "on": "/img/derivatives/iiif/canvas/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "/img/derivatives/iiif/annotation/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "/img/derivatives/iiif/images/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "/img/derivatives/iiif/images/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 2490,
+    "height": 4139
+  },
+  "on": "/img/derivatives/iiif/canvas/Birmingham_1831-05-28_BritishLibrary_lsidyv414d7ded_single_1831-1833_Theatre_Royal_Birmingham_merged_0316.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

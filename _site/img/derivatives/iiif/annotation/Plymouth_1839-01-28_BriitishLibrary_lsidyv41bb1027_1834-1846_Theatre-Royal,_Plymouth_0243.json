@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "/img/derivatives/iiif/annotation/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "/img/derivatives/iiif/images/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "/img/derivatives/iiif/images/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 2529,
+    "height": 3956
+  },
+  "on": "/img/derivatives/iiif/canvas/Plymouth_1839-01-28_BriitishLibrary_lsidyv41bb1027_1834-1846_Theatre-Royal,_Plymouth_0243.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

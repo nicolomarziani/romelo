@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Helier_1838-01-05_BritishLibrary_lsidyv41bb17d4_1800-1848_Provincial_Theatres_0178",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3046,
+  "height": 6834,
+  "sizes": [
+    {
+      "width": 3046,
+      "height": 6834
+    },
+    {
+      "width": 250,
+      "height": 561
+    },
+    {
+      "width": 1140,
+      "height": 2558
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2100,
+  "height": 3548,
+  "sizes": [
+    {
+      "width": 2100,
+      "height": 3548
+    },
+    {
+      "width": 250,
+      "height": 422
+    },
+    {
+      "width": 1140,
+      "height": 1926
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

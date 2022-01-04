@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113.json",
+  "label": "front",
+  "width": 1682,
+  "height": 3519,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1682,
+        "height": 3519
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Hull_1829-05-29_BritishLibrary_lsidyv41bb5ec8_single_1827-1830_Theatre-Royal_Hull_merged_0113.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

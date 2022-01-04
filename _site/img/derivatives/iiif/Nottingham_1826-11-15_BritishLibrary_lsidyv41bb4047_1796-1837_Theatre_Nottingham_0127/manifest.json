@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/img/derivatives/iiif/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127",
+  "thumbnail": "/img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/img/derivatives/iiif/sequence/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/img/derivatives/iiif/canvas/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127.json",
+          "label": "front",
+          "width": 2500,
+          "height": 5854,
+          "thumbnail": "/img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/img/derivatives/iiif/annotation/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2500,
+                "height": 5854
+              },
+              "on": "/img/derivatives/iiif/canvas/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "/img/derivatives/iiif/images/Nottingham_1826-11-15_BritishLibrary_lsidyv41bb4047_1796-1837_Theatre_Nottingham_0127/full/full/0/default.jpg"
+}

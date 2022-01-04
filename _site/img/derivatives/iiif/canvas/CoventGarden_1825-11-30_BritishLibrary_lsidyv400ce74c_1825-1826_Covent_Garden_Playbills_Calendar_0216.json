@@ -1,0 +1,29 @@
+{
+  "@type": "sc:Canvas",
+  "@id": "/img/derivatives/iiif/canvas/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216.json",
+  "label": "front",
+  "width": 2908,
+  "height": 4762,
+  "thumbnail": "/img/derivatives/iiif/images/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "/img/derivatives/iiif/annotation/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "/img/derivatives/iiif/images/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "/img/derivatives/iiif/images/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 2908,
+        "height": 4762
+      },
+      "on": "/img/derivatives/iiif/canvas/CoventGarden_1825-11-30_BritishLibrary_lsidyv400ce74c_1825-1826_Covent_Garden_Playbills_Calendar_0216.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

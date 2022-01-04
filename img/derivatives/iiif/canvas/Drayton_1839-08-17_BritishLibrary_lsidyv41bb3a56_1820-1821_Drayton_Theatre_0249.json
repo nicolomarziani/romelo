@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249.json",
+  "label": "front",
+  "width": 1888,
+  "height": 4736,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 944,
+        "height": 2368
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Drayton_1839-08-17_BritishLibrary_lsidyv41bb3a56_1820-1821_Drayton_Theatre_0249.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

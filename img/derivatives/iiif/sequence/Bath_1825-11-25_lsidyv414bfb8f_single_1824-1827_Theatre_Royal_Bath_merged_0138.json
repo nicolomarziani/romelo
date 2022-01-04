@@ -1,0 +1,38 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138.json",
+      "label": "front",
+      "width": 2899,
+      "height": 4569,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2899,
+            "height": 4569
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1825-11-25_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0138.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

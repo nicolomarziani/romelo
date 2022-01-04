@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/img/derivatives/iiif/images/Bath_1840-11-24_BritishLibrary_lsidyv414cb2a8_single_1836-1840_Theatre_Royal_Bath_merged_0354",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2023,
+  "height": 2689,
+  "sizes": [
+    {
+      "width": 2023,
+      "height": 2689
+    },
+    {
+      "width": 250,
+      "height": 332
+    },
+    {
+      "width": 1140,
+      "height": 1515
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

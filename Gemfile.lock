@@ -61,6 +61,10 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_magick (4.11.0)
+    mini_portile2 (2.5.3)
+    nokogiri (1.11.2)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
     nokogiri (1.11.2-x86_64-darwin)
       racc (~> 1.4)
     nokogumbo (2.0.5)
@@ -103,6 +107,7 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
+  ruby
   x86_64-darwin-19
 
 DEPENDENCIES

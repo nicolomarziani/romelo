@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Colchester_1828-11-21_BritishLibrary_lsidyv41bb2436_1805-1851_Provincial_Theatres_Ch-Co_0036",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3133,
+  "height": 6767,
+  "sizes": [
+    {
+      "width": 3133,
+      "height": 6767
+    },
+    {
+      "width": 250,
+      "height": 540
+    },
+    {
+      "width": 1140,
+      "height": 2462
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

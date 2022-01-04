@@ -1,0 +1,22 @@
+---
+layout: none
+---
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 2100,
+    "height": 3548
+  },
+  "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Lancaster_1829-03-16_BritishLibrary_lsidyv41bb3b85_1799-1847_Pronvincial_various_0184.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/img/derivatives/iiif/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213",
+  "thumbnail": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/img/derivatives/iiif/sequence/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/img/derivatives/iiif/canvas/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213.json",
+          "label": "front",
+          "width": 1619,
+          "height": 4052,
+          "thumbnail": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/img/derivatives/iiif/annotation/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1619,
+                "height": 4052
+              },
+              "on": "/img/derivatives/iiif/canvas/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "/img/derivatives/iiif/images/Newcastle_1830-07-19_BritishLibrary_lsidyv41bb0d27_1829-1833_Newcastle_Theatre_Royal_0213/full/full/0/default.jpg"
+}

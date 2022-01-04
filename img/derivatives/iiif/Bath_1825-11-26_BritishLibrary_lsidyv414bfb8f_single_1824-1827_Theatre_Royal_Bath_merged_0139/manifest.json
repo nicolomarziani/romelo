@@ -1,0 +1,49 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139.json",
+          "label": "front",
+          "width": 3173,
+          "height": 4698,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3173,
+                "height": 4698
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Bath_1825-11-26_BritishLibrary_lsidyv414bfb8f_single_1824-1827_Theatre_Royal_Bath_merged_0139/full/full/0/default.jpg"
+}
